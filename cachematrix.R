@@ -1,7 +1,7 @@
 ## This script contains two functions using for caching inverse matrix
 
 
-## This function creates a matrix object that can keep its inverse
+## This function creates a matrix object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
